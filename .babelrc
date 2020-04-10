@@ -8,6 +8,8 @@
       }
     ],
     "react",
-    "stage-0"
+    "stage-0",
+    "@babel/env",
+    "@babel/react"
   ]
 }
